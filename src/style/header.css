@@ -1,0 +1,11 @@
+.logo{
+    font-family: 'Playfair Display', serif !important;
+    font-weight: 500 !important;
+    flex-grow: 1;
+    font-size: 2rem !important;
+}
+
+.menu-link:hover {
+    transition: all .3sease;
+    transform: scale(1.2);
+}

@@ -1,0 +1,17 @@
+.welcome-text {
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: white;
+  font-size: 1rem;
+}
+
+.welcome-text2 {
+  color: white;
+  font-size: 6.125rem;
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+  width: 83%;
+  margin-top: 4%;
+  line-height: 1;
+}
+
