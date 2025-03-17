@@ -1,0 +1,18 @@
+.prod-name{
+    letter-spacing: 0.00938em !important;
+    font-size: 1.5rem !important;
+    line-height: 1.4em !important;
+    font-weight: 500 !important;
+    font-family: 'Playfair Display, serif' !important;
+}
+
+.price-details{
+    line-height: 1.5 !important;
+    letter-spacing: 0.00938em !important;
+    font-size: 0.875rem !important;
+    font-style: inherit !important;
+    font-weight: inherit !important;
+    vertical-align: baseline !important;
+    margin-top: 3% !important;
+    font-family: 'Work Sans' !important;
+}
